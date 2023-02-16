@@ -1,0 +1,4 @@
+Title of Pratical: Write a PHP program to demonstrate use of decsion making control structure statements using
+a) IF statements
+b) If-Else
+c)switch statements
